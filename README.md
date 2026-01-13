@@ -246,8 +246,7 @@ Once deployed, access your services at:
 Detailed documentation is available in the project: 
 
 - 📖 **[USER_DOC.md](Inception/USER_DOC.md)** - User guide and usage instructions
-- 🔧 **[DEV_DOC.md](Inception/DEV_DOC. md)** - Developer documentation and troubleshooting
-- 📋 **[en. subject.pdf](en.subject.pdf)** - Original project subject (42 School)
+- 🔧 **[DEV_DOC.md](Inception/DEV_DOC.md)** - Developer documentation and troubleshooting
 
 ---
 
