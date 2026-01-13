@@ -7,7 +7,7 @@
 ![Inception Banner](https://drive.google.com/uc? export=view&id=1Q1EuZujTV-CFrNA57d4-q9V3Xn2edKL6)
 
 [![42 School](https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
-[![Docker](https://img.shields.io/badge/Docker-2496ED? style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
@@ -55,7 +55,7 @@
 ```
                                     ┌─────────────────┐
                                     │   Host Machine  │
-                                    │  ssbaytri. 42.fr │
+                                    │  ssbaytri. 42.fr│
                                     └────────┬────────┘
                                              │
                     ┌────────────────────────┼────────────────────────┐
@@ -79,7 +79,7 @@
           │                           └───────────┘
           │
     ┌─────▼─────────────────────────────────────────────────┐
-    │                   Bonus Services                       │
+    │                   Bonus Services                      │
     ├───────────────┬──────────────┬──────────────┬─────────┤
     │   Adminer     │     FTP      │ Static Site  │Portainer│
     │   (8080)      │   (21)       │   (8081)     │ (9443)  │
