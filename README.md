@@ -340,6 +340,11 @@ make              # Rebuild from scratch
 - [NGINX Documentation](https://nginx.org/en/docs/)
 - [WordPress Codex](https://wordpress.org/documentation/)
 - [MariaDB Knowledge Base](https://mariadb.com/kb/en/)
+- [Docker Networks](https://youtu.be/bKFMS5C4CG0?si=8MWPpE2FNI4pmfQN)
+- [Docker Tutorial](https://youtu.be/3c-iBn73dDE?si=qFMGgn1JfKPDfXjS)
+- [Inception Guide](https://github.com/Forstman1/inception-42)
+- [Inception Guide2](https://github.com/Xperaz/inception-42)
+- [Medium](https://medium.com/@ssterdev/inception-guide-42-project-part-i-7e3af15eb671)
 
 ---
 
