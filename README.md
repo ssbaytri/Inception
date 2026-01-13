@@ -4,7 +4,7 @@
 
 ### A Multi-Container Docker Infrastructure Project
 
-![Inception Banner](https://drive.google.com/uc? export=view&id=1Q1EuZujTV-CFrNA57d4-q9V3Xn2edKL6)
+![Inception Banner](https://drive.google.com/uc?export=view&id=1Q1EuZujTV-CFrNA57d4-q9V3Xn2edKL6)
 
 [![42 School](https://img.shields.io/badge/42-School-000000?style=for-the-badge&logo=42&logoColor=white)](https://42.fr)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
